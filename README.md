@@ -1,5 +1,7 @@
 # Coding_Lessons
 
 ## Self
-* Hopfield model self equations
-* SK_CW self euations
+### Hopfield 
+Collection of Codes to construct the phase diagrams of the Hopfield Model
+### SK_CW self equations
+Collection of Codes to construct the phase diagrams of the SK and CW Model
