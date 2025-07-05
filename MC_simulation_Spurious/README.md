@@ -101,8 +101,9 @@ Runs the TAM network dynamics.
 
 ```
 .
-├── main.py              # Contains the Hopfield and TAM implementations
+├── Networks.py          # Contains the Hopfield and TAM implementations
 ├── README.md            # Project documentation
+├── split.ipynb          # Contains some use cases examples
 ```
 
 ---
